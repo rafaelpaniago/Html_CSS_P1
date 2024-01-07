@@ -1,0 +1,13 @@
+body {
+    color:antiquewhite;
+    background-color:black;
+}
+
+ul {
+    display: flex; /* Altera a forma de exibição */
+    justify-content: space-between;
+    list-style-type: none; /* Sem a bolinha de tópico */
+    align-items: center; /* Verticalmente alinhado ao centro */
+    padding: 16px;
+
+}
